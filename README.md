@@ -12,8 +12,7 @@ Before using this script, make sure you have the following:
 To deploy multiple AWS modules, follow these steps:
 
 **Clone this repository to your local machine:
-
-   git clone https://github.com/vijaysexena/TF-Module.git**
+  git clone https://github.com/vijaysexena/TF-Module.git**
 
 Update the terraform.tfvars file with the required variable values for your deployment.
 
@@ -33,9 +32,9 @@ terraform apply
 Terraform will prompt for confirmation before making any changes. Enter yes to proceed.
 
 **Modules
-This Terraform script supports the following AWS modules:
+This Terraform script supports the following AWS modules:**
 
-terraform-aws-ec2-module
+**terraform-aws-ec2-module
 terraform-aws-rds-module
 terraform-aws-vpc-module
 For more details on how to configure each module, refer to their respective documentation within their directories.**
