@@ -32,12 +32,12 @@ terraform apply
 Terraform will prompt for confirmation before making any changes. Enter yes to proceed.
 
 ## Modules
-**This Terraform script supports the following AWS modules:**
+## This Terraform script supports the following AWS modules:
 
-**terraform-aws-ec2-module
-terraform-aws-rds-module
-terraform-aws-vpc-module
-For more details on how to configure each module, refer to their respective documentation within their directories.**
+## terraform-aws-ec2-module
+## terraform-aws-rds-module
+## terraform-aws-vpc-module
+For more details on how to configure each module, refer to their respective documentation within their directories.
 
 ## Clean Up
 ## To clean up and destroy the created resources, run the following command
