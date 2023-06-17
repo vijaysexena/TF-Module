@@ -31,8 +31,8 @@ terraform plan
 terraform apply
 Terraform will prompt for confirmation before making any changes. Enter yes to proceed.
 
-**Modules
-This Terraform script supports the following AWS modules:**
+## Modules
+**This Terraform script supports the following AWS modules:**
 
 **terraform-aws-ec2-module
 terraform-aws-rds-module
